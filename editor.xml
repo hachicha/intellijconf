@@ -1,0 +1,20 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
+  </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern icon="question" pattern="\btodo\b.*zha" />
+    <pattern icon="question" pattern="\btodo\b.*zied" />
+    <filter name="Test">
+      <pattern index="3" />
+      <pattern index="2" />
+    </filter>
+  </component>
+</application>

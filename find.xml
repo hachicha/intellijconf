@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*.xhtml</mask>
+      <mask>*Dao.</mask>
+      <mask>*Dao.ja</mask>
+      <mask>*Da.java</mask>
+      <mask>*D.java</mask>
+      <mask>*.java</mask>
+      <mask>*G.java</mask>
+      <mask>*Gr.java</mask>
+      <mask>*Gri.java</mask>
+      <mask>*Grid.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>.xml</mask>
+      <mask>S.xml</mask>
+      <mask>Se.xml</mask>
+      <mask>Ser.xml</mask>
+      <mask>Serv.xml</mask>
+      <mask>Service.xml</mask>
+      <mask>Service.ja</mask>
+      <mask>Service.java</mask>
+      <mask>*Service.java</mask>
+      <mask>*.</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
+      <mask>*</mask>
+      <mask>*D</mask>
+      <mask>*Da</mask>
+      <mask>*Dao</mask>
+      <mask>*Dao.java</mask>
+    </recentFileMasks>
+  </component>
+</application>

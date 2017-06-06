@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <option name="INSTRUMENTATION" value="ASSERT" />
+    <option name="LANGUAGE_ANNOTATION" value="org.intellij.lang.annotations.Language" />
+    <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
+    <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
+    <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="GenericSQL" injector-id="xml">
+      <display-name>logger/@level</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("level")).withParent(xmlTag().withLocalName(string().equalTo("logger")))]]></place>
+    </injection>
+  </component>
+</application>
