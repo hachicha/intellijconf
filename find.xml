@@ -2,14 +2,16 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.xhtml</mask>
       <mask>*Dao.</mask>
       <mask>*Dao.ja</mask>
       <mask>*Da.java</mask>
       <mask>*D.java</mask>
-      <mask>*.java</mask>
       <mask>*G.java</mask>
       <mask>*Gr.java</mask>
       <mask>*Gri.java</mask>
@@ -34,6 +36,7 @@
       <mask>*Da</mask>
       <mask>*Dao</mask>
       <mask>*Dao.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
