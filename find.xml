@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*.xhtml</mask>
       <mask>*Dao.</mask>
@@ -26,14 +27,14 @@
       <mask>Service.java</mask>
       <mask>*Service.java</mask>
       <mask>*.</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*</mask>
       <mask>*D</mask>
       <mask>*Da</mask>
       <mask>*Dao</mask>
       <mask>*Dao.java</mask>
       <mask>*.java</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
