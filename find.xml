@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.xhtml</mask>
-      <mask>*Dao.</mask>
       <mask>*Dao.ja</mask>
       <mask>*Da.java</mask>
       <mask>*D.java</mask>
@@ -13,7 +11,6 @@
       <mask>*Gr.java</mask>
       <mask>*Gri.java</mask>
       <mask>*Grid.java</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>.xml</mask>
@@ -34,6 +31,9 @@
       <mask>*.java</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.x</mask>
+      <mask>*.xhtm</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
