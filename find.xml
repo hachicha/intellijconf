@@ -7,13 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Bean.java" />
     <recentFileMasks>
-      <mask>Service.java</mask>
-      <mask>*Service.java</mask>
-      <mask>*Da</mask>
-      <mask>*Dao</mask>
-      <mask>*Dao.java</mask>
-      <mask>*.java</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.xhtm</mask>
@@ -35,9 +30,15 @@
       <mask>*DTO.ja</mask>
       <mask>*DTO.java</mask>
       <mask>*x</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xhtml</mask>
+      <mask>*</mask>
+      <mask>*Bea</mask>
+      <mask>*Bean</mask>
+      <mask>*Bean.</mask>
+      <mask>*Bean.j</mask>
+      <mask>*Bean.ja</mask>
+      <mask>*Bean.java</mask>
     </recentFileMasks>
   </component>
 </application>
