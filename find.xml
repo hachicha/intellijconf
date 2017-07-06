@@ -7,19 +7,10 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <recentFileMasks>
-      <mask>*Grid.java</mask>
-      <mask>S.xml</mask>
-      <mask>Se.xml</mask>
-      <mask>Ser.xml</mask>
-      <mask>Serv.xml</mask>
-      <mask>Service.xml</mask>
-      <mask>Service.ja</mask>
       <mask>Service.java</mask>
       <mask>*Service.java</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-      <mask>*D</mask>
       <mask>*Da</mask>
       <mask>*Dao</mask>
       <mask>*Dao.java</mask>
@@ -27,7 +18,6 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.xhtm</mask>
-      <mask>*.xhtml</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
@@ -38,6 +28,17 @@
       <mask>p.xml</mask>
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
+      <mask>*D</mask>
+      <mask>*DT</mask>
+      <mask>*DTO</mask>
+      <mask>*DTO.</mask>
+      <mask>*DTO.j</mask>
+      <mask>*DTO.ja</mask>
+      <mask>*DTO.java</mask>
+      <mask>*x</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
