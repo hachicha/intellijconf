@@ -8,8 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.xhtm</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
@@ -38,6 +36,8 @@
       <mask>*Bean.j</mask>
       <mask>*Bean.ja</mask>
       <mask>*Bean.java</mask>
+      <mask>*java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
