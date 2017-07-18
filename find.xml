@@ -8,7 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>p.xml</mask>
       <mask>po.xml</mask>
       <mask>pom.xml</mask>
       <mask>*D</mask>
@@ -19,7 +18,6 @@
       <mask>*DTO.ja</mask>
       <mask>*DTO.java</mask>
       <mask>*x</mask>
-      <mask>*.xhtml</mask>
       <mask>*</mask>
       <mask>*Bea</mask>
       <mask>*Bean</mask>
@@ -34,10 +32,12 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jspx</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
