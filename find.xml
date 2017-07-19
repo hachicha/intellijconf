@@ -2,29 +2,16 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*DTO</mask>
-      <mask>*DTO.</mask>
-      <mask>*DTO.j</mask>
-      <mask>*DTO.ja</mask>
-      <mask>*DTO.java</mask>
-      <mask>*x</mask>
-      <mask>*</mask>
-      <mask>*Bea</mask>
-      <mask>*Bean</mask>
-      <mask>*Bean.</mask>
-      <mask>*Bean.j</mask>
       <mask>*Bean.ja</mask>
       <mask>*Bean.java</mask>
       <mask>*java</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.css</mask>
@@ -40,6 +27,18 @@
       <mask>sql</mask>
       <mask>*sql</mask>
       <mask>*.sql</mask>
+      <mask>D</mask>
+      <mask>Da</mask>
+      <mask>Dao</mask>
+      <mask>Dao.</mask>
+      <mask>Dao.j</mask>
+      <mask>Dao.ja</mask>
+      <mask>Dao.jav</mask>
+      <mask>Dao.java</mask>
+      <mask>*Dao.java</mask>
+      <mask>*Da.java</mask>
+      <mask>*D.java</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
