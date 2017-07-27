@@ -7,14 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*x</mask>
-      <mask>*</mask>
-      <mask>*Bea</mask>
-      <mask>*Bean</mask>
-      <mask>*Bean.</mask>
-      <mask>*Bean.j</mask>
       <mask>*Bean.ja</mask>
       <mask>*Bean.java</mask>
       <mask>*java</mask>
@@ -29,15 +22,21 @@
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xhtml</mask>
-      <mask>*D.xhtml</mask>
-      <mask>*Da.xhtml</mask>
-      <mask>*Dao.xhtml</mask>
-      <mask>*Dao.Ja</mask>
-      <mask>*Dao.J</mask>
-      <mask>*Dao.</mask>
-      <mask>*Dao.j</mask>
-      <mask>*Dao.ja</mask>
+      <mask>sq</mask>
+      <mask>sql</mask>
+      <mask>*sql</mask>
+      <mask>*.sql</mask>
+      <mask>D</mask>
+      <mask>Da</mask>
+      <mask>Dao</mask>
+      <mask>Dao.</mask>
+      <mask>Dao.j</mask>
+      <mask>Dao.ja</mask>
+      <mask>Dao.jav</mask>
+      <mask>Dao.java</mask>
       <mask>*Dao.java</mask>
+      <mask>*Da.java</mask>
+      <mask>*D.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
