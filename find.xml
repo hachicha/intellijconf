@@ -7,16 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Grid.java" />
     <recentFileMasks>
-      <mask>*Bean.ja</mask>
-      <mask>*Bean.java</mask>
-      <mask>*java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jspx</mask>
       <mask>*.</mask>
@@ -38,6 +30,15 @@
       <mask>*D.java</mask>
       <mask>*.java</mask>
       <mask>*.xhtml</mask>
+      <mask>*</mask>
+      <mask>*G</mask>
+      <mask>*Gr</mask>
+      <mask>*Grid</mask>
+      <mask>*Grid.</mask>
+      <mask>*Grid.j</mask>
+      <mask>*Grid.ja</mask>
+      <mask>*Grid.jav</mask>
+      <mask>*Grid.java</mask>
     </recentFileMasks>
   </component>
 </application>
