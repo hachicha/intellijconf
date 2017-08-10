@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jspx</mask>
       <mask>sq</mask>
@@ -26,7 +27,6 @@
       <mask>*Dao.java</mask>
       <mask>*Da.java</mask>
       <mask>*D.java</mask>
-      <mask>*.java</mask>
       <mask>*G</mask>
       <mask>*Gr</mask>
       <mask>*Grid</mask>
@@ -40,6 +40,7 @@
       <mask>*.x</mask>
       <mask>*.xhtm</mask>
       <mask>*.xhtml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
