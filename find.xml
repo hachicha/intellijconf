@@ -7,12 +7,11 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.jspx</mask>
       <mask>sq</mask>
       <mask>sql</mask>
       <mask>*sql</mask>
-      <mask>*.sql</mask>
       <mask>D</mask>
       <mask>Da</mask>
       <mask>Dao</mask>
@@ -33,11 +32,13 @@
       <mask>*Grid.jav</mask>
       <mask>*Grid.java</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xhtm</mask>
       <mask>*.xhtml</mask>
       <mask>*.java</mask>
+      <mask>*.</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
