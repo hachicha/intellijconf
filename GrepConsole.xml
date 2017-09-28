@@ -4,6 +4,7 @@
       <list>
         <Profile>
           <option name="defaultProfile" value="true" />
+          <option name="enableMaxLengthLimit" value="false" />
           <option name="grepExpressionGroups">
             <list>
               <GrepExpressionGroup>
@@ -17,12 +18,12 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-39836" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="bold" value="true" />
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-7195833" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -38,31 +39,12 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-6329600" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="bold" value="true" />
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="id" value="53592f06-93e2-43fd-8b30-998d8eb143ea" />
-                        </GrepStyle>
-                      </option>
-                    </GrepExpressionItem>
-                    <GrepExpressionItem>
-                      <option name="grepExpression" value=".*Caused By.*" />
-                      <option name="id" value="0c0a8a70-d6d5-4aef-919d-59eae4d91347" />
-                      <option name="style">
-                        <GrepStyle>
-                          <option name="backgroundColor">
-                            <GrepColor>
-                              <option name="color" value="-6329600" />
-                              <option name="enabled" value="true" />
-                            </GrepColor>
-                          </option>
-                          <option name="foregroundColor">
-                            <GrepColor>
+                              <option name="color" value="-13102047" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -78,11 +60,11 @@
                           <option name="backgroundColor">
                             <GrepColor>
                               <option name="color" value="-7697920" />
-                              <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
                           <option name="foregroundColor">
                             <GrepColor>
+                              <option name="color" value="-7697920" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -93,6 +75,21 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="6fad3b86-dadd-4b7e-a15e-75da591c1064" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="color" value="-8355712" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="26253327-9f38-496a-84e4-7f9b45d6050c" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*Slf4jSpyLogDelegator.*" />
+                      <option name="id" value="e6fffc7e-5ffe-4219-b64c-8646b57f9917" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
