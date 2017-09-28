@@ -51,6 +51,26 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="grepExpression" value=".*Caused By.*" />
+                      <option name="id" value="0c0a8a70-d6d5-4aef-919d-59eae4d91347" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-6329600" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="foregroundColor">
+                            <GrepColor>
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="53592f06-93e2-43fd-8b30-998d8eb143ea" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="98b4a777-7131-4b01-9d61-2e7928f416af" />
                       <option name="style">
