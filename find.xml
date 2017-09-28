@@ -11,15 +11,12 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xsd" />
+    <option name="FILE_MASK" value="*Dao.java" />
     <recentFileMasks>
-      <mask>Dao</mask>
-      <mask>Dao.</mask>
       <mask>Dao.j</mask>
       <mask>Dao.ja</mask>
       <mask>Dao.jav</mask>
       <mask>Dao.java</mask>
-      <mask>*Dao.java</mask>
       <mask>*Da.java</mask>
       <mask>*D.java</mask>
       <mask>*G</mask>
@@ -30,7 +27,6 @@
       <mask>*Grid.ja</mask>
       <mask>*Grid.jav</mask>
       <mask>*Grid.java</mask>
-      <mask>*</mask>
       <mask>*.java</mask>
       <mask>*.</mask>
       <mask>*.sq</mask>
@@ -43,6 +39,10 @@
       <mask>*.xxs</mask>
       <mask>*.xxsd</mask>
       <mask>*.xsd</mask>
+      <mask>*</mask>
+      <mask>*D</mask>
+      <mask>*Da</mask>
+      <mask>*Dao.java</mask>
     </recentFileMasks>
   </component>
 </application>
