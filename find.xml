@@ -25,7 +25,6 @@
       <mask>*.java</mask>
       <mask>*.</mask>
       <mask>*.sq</mask>
-      <mask>*.sql</mask>
       <mask>*.x</mask>
       <mask>*.xht</mask>
       <mask>*.xhtm</mask>
@@ -38,6 +37,7 @@
       <mask>*D</mask>
       <mask>*Da</mask>
       <mask>*Dao.java</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
