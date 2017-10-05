@@ -92,6 +92,11 @@
                       <option name="id" value="e6fffc7e-5ffe-4219-b64c-8646b57f9917" />
                       <option name="style">
                         <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-9560785" />
+                            </GrepColor>
+                          </option>
                           <option name="foregroundColor">
                             <GrepColor>
                               <option name="color" value="-8355712" />
