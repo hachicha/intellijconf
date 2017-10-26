@@ -27,7 +27,6 @@
       <mask>*Bean.j</mask>
       <mask>*Bean.ja</mask>
       <mask>*Bean.java</mask>
-      <mask>*.xhtml</mask>
       <mask>G</mask>
       <mask>Gr</mask>
       <mask>Grid</mask>
@@ -38,6 +37,7 @@
       <mask>Grid.java</mask>
       <mask>* Grid.java</mask>
       <mask>*Grid.java</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
