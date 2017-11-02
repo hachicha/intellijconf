@@ -7,9 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
       <mask>*</mask>
       <mask>*B</mask>
       <mask>*Bea</mask>
@@ -31,13 +30,15 @@
       <mask>*Dao.java</mask>
       <mask>* Grid.java</mask>
       <mask>*Grid.java</mask>
-      <mask>*.java</mask>
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xhtml</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
