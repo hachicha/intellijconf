@@ -9,13 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <recentFileMasks>
-      <mask>G</mask>
-      <mask>Gr</mask>
-      <mask>Grid</mask>
-      <mask>Grid.</mask>
-      <mask>Grid.j</mask>
-      <mask>Grid.ja</mask>
       <mask>Grid.jav</mask>
       <mask>Grid.java</mask>
       <mask>D</mask>
@@ -24,15 +19,12 @@
       <mask>*.sql</mask>
       <mask>*.sq</mask>
       <mask>*.s</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*D.java</mask>
       <mask>*Da.java</mask>
       <mask>*Dao.java.java</mask>
-      <mask>*.xhtml</mask>
       <mask>*D.xhtml</mask>
       <mask>*Da.xhtml</mask>
       <mask>*Dao.xhtml</mask>
@@ -40,6 +32,15 @@
       <mask>*Dao.java</mask>
       <mask>*Gr.java</mask>
       <mask>*Grid.java</mask>
+      <mask>-</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xhr</mask>
+      <mask>*.xh</mask>
+      <mask>*.xht</mask>
+      <mask>*.xhtm</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
