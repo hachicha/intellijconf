@@ -30,14 +30,14 @@
       <mask>-</mask>
       <mask>*</mask>
       <mask>*.xhr</mask>
-      <mask>*.xht</mask>
+      <mask>*.sq</mask>
+      <mask>*.xhtml</mask>
       <mask>*.xhtm</mask>
+      <mask>*.xht</mask>
       <mask>*.xh</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
-      <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
