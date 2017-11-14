@@ -8,9 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>Grid.jav</mask>
-      <mask>Grid.java</mask>
-      <mask>D</mask>
       <mask>Da</mask>
       <mask>* Grid.java</mask>
       <mask>*.s</mask>
@@ -24,7 +21,6 @@
       <mask>*Da.xhtml</mask>
       <mask>*Dao.xhtml</mask>
       <mask>*Dao.ja</mask>
-      <mask>*Dao.java</mask>
       <mask>*Gr.java</mask>
       <mask>*Grid.java</mask>
       <mask>-</mask>
@@ -38,6 +34,10 @@
       <mask>*.x</mask>
       <mask>*.</mask>
       <mask>*.sql</mask>
+      <mask>*D.sql</mask>
+      <mask>*Da.sql</mask>
+      <mask>*Dao.java.sql</mask>
+      <mask>*Dao.java</mask>
     </recentFileMasks>
   </component>
 </application>
