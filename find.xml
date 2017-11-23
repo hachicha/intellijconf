@@ -28,7 +28,6 @@
       <mask>*D.sql</mask>
       <mask>*Da.sql</mask>
       <mask>*Dao.java.sql</mask>
-      <mask>*Dao.java</mask>
       <mask>*.sql</mask>
       <mask>*</mask>
       <mask>*G</mask>
@@ -38,6 +37,7 @@
       <mask>*Grid.</mask>
       <mask>*Grid.java</mask>
       <mask>*.java</mask>
+      <mask>*Dao.java</mask>
     </recentFileMasks>
   </component>
 </application>
