@@ -35,11 +35,11 @@
       <mask>Da</mask>
       <mask>D</mask>
       <mask>Dao</mask>
-      <mask>*Dao.java</mask>
-      <mask>*Dao.java</mask>
       <mask>*Da.java</mask>
       <mask>*D.java</mask>
       <mask>*.java</mask>
+      <mask>*Dao.java</mask>
+      <mask>*Dao.java</mask>
     </recentFileMasks>
   </component>
 </application>
