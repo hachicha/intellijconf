@@ -8,7 +8,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*D.sql</mask>
       <mask>*Da.sql</mask>
       <mask>*Dao.java.sql</mask>
       <mask>*G</mask>
@@ -38,6 +37,7 @@
       <mask>*Dao.java</mask>
       <mask>*.sql</mask>
       <mask>*.java</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
