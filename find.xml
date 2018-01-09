@@ -7,9 +7,8 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xsd" />
     <recentFileMasks>
-      <mask>*Da.sql</mask>
-      <mask>*Dao.java.sql</mask>
       <mask>*G</mask>
       <mask>*Gr</mask>
       <mask>*Gri</mask>
@@ -17,10 +16,8 @@
       <mask>*Grid.</mask>
       <mask>*Grid.java</mask>
       <mask>*.l</mask>
-      <mask>*.s</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>Da</mask>
       <mask>D</mask>
       <mask>Dao</mask>
@@ -35,9 +32,13 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.sq</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xs</mask>
+      <mask>*.xsd</mask>
     </recentFileMasks>
   </component>
 </application>
