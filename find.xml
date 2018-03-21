@@ -2,12 +2,14 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xhtml" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>*Grid</mask>
       <mask>*Grid.</mask>
@@ -36,9 +38,9 @@
       <mask>pom.xml</mask>
       <mask>*Grid.java</mask>
       <mask>*.js</mask>
-      <mask>*.sql</mask>
       <mask>p</mask>
       <mask>*.xhtml</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
