@@ -66,6 +66,9 @@
       </value>
     </option>
   </JavaCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="KEYWORD_CASE" value="0" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
