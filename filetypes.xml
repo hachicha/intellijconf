@@ -8,6 +8,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="props" type="PLAIN_TEXT" />
       <mapping pattern="delete_duplicated_tobaco_business.sql" type="SQL" />
+      <mapping pattern="delete_caisse_gouroo" type="SQL" />
       <mapping pattern="remove_message_iris" type="SQL" />
       <mapping pattern="dont_send_rectificative_invoice" type="SQL" />
       <mapping ext="fnc" type="DBN-PSQL" />
