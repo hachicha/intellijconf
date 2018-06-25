@@ -21,5 +21,6 @@
     <mask>*.sql</mask>
     <mask>*web*.properties</mask>
     <mask>*.js</mask>
+    <mask>*.wsdl</mask>
   </component>
 </application>
