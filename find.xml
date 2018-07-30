@@ -18,9 +18,9 @@
     <mask>*web*.properties</mask>
     <mask>*.js</mask>
     <mask>*.wsdl</mask>
-    <mask>*.sql</mask>
     <mask>*.properties</mask>
     <mask>*Dao.java</mask>
     <mask>*.xhtml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
