@@ -19,8 +19,8 @@
     <mask>*Dao.java</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.xhtml</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
