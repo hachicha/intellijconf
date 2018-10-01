@@ -1,9 +1,15 @@
 <application>
   <component name="EclipseCodeFormatterSettings">
+    <option name="donationNagger">
+      <DonationNagger>
+        <option name="actionsExecuted" value="1" />
+        <option name="firstUsage" value="1538405519431" />
+        <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
+      </DonationNagger>
+    </option>
     <option name="settingsList">
       <list>
         <Settings>
-          <option name="defaultSettings" value="true" />
           <option name="eclipseVersion" value="ECLIPSE_44" />
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1441803332303" />
