@@ -20,7 +20,7 @@
     <mask>*.xhtml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
