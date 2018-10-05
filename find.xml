@@ -15,12 +15,12 @@
     <mask>*GridTest.java</mask>
     <mask>*web*.properties</mask>
     <mask>*.wsdl</mask>
-    <mask>*Dao.java</mask>
     <mask>*.properties</mask>
     <mask>*.xhtml</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
+    <mask>*Dao.java</mask>
   </component>
 </application>
