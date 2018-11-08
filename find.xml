@@ -22,5 +22,6 @@
     <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*.css</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
