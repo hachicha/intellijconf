@@ -5,6 +5,7 @@
       <mapping ext="xcf" type="Native" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="cataloguepivot-es-after-222.xml" type="PLAIN_TEXT" />
+      <mapping pattern=".attach_pid14007" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
       <mapping ext="props" type="PLAIN_TEXT" />
       <mapping pattern="delete_duplicated_tobaco_business.sql" type="SQL" />
