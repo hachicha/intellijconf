@@ -2,7 +2,7 @@
   <component name="EclipseCodeFormatterSettings">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="450" />
+        <option name="actionsExecuted" value="451" />
         <option name="firstUsage" value="1538405519431" />
         <option name="firstUsedVersion" value="18.2.181.000.0-Eclipse_4.9.0" />
         <option name="lastNaggingDate" value="1538645949195" />
@@ -15,7 +15,7 @@
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1441803332303" />
           <option name="name" value="default" />
-          <option name="pathToConfigFileJava" value="$USER_HOME$/dev/strator+code+style+formatter+settings+v2.4.xml" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/data/dev/strator+code+style+formatter+settings+v2.4.xml" />
           <option name="selectedJavaProfile" value="Strator2.4" />
           <option name="useOldEclipseJavaFormatter" value="true" />
         </Settings>
