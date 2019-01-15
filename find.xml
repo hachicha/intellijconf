@@ -16,11 +16,11 @@
     <mask>*.xhtml</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
-    <mask>*.sql</mask>
     <mask>*Dao.java</mask>
     <mask>*.xsd</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>pom.xml</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
