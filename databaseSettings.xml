@@ -1,7 +1,7 @@
 <application>
   <component name="DatabaseSettings" version="4">
-    <option name="page-size" value="100" />
     <option name="execute-inside-option" value="3" />
+    <option name="prefetch-size" value="500" />
     <exec-options>
       <exec-option exec-inside="3" />
       <exec-option />
