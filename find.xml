@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -13,7 +14,6 @@
     <mask>*web*.properties</mask>
     <mask>*.wsdl</mask>
     <mask>*.js</mask>
-    <mask>*.css</mask>
     <mask>*Dao.java</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
@@ -22,6 +22,7 @@
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
+    <mask>*.css</mask>
     <mask>*.xhtml</mask>
   </component>
 </application>
