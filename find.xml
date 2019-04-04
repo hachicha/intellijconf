@@ -20,8 +20,8 @@
     <mask>*Filter.java</mask>
     <mask>*.properties</mask>
     <mask>*.css</mask>
-    <mask>*.xhtml</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
