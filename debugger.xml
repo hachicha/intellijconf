@@ -98,7 +98,7 @@
   </component>
   <component name="NodeRendererSettings">
     <Renderer ID="ToStringRenderer">
-      <option name="ENABLED" value="false" />
+      <option name="ON_DEMAND" value="true" />
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
@@ -117,7 +117,6 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="showLibraryStackFrames" value="false" />
       <sort-values>true</sort-values>
     </data-views>
     <general />
