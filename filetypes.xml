@@ -1,19 +1,29 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Modelo347TypeSelectionEnum.java" type="Native" />
       <mapping ext="xcf" type="Native" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="cataloguepivot-es-after-222.xml" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid14007" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
-      <mapping ext="props" type="PLAIN_TEXT" />
-      <mapping pattern="delete_duplicated_tobaco_business.sql" type="SQL" />
-      <mapping pattern="delete_caisse_gouroo" type="SQL" />
-      <mapping pattern="paiements" type="SQL" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="remove_message_iris" type="SQL" />
       <mapping pattern="dont_send_rectificative_invoice" type="SQL" />
+      <mapping pattern="delete_caisse_gouroo" type="SQL" />
+      <mapping pattern="paiements" type="SQL" />
+      <mapping pattern="delete_duplicated_tobaco_business.sql" type="SQL" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="props" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
