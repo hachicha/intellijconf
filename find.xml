@@ -19,10 +19,10 @@
     <mask>*.sh</mask>
     <mask>*.xhtml</mask>
     <mask>*Grid.java</mask>
-    <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*Dao.java</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
