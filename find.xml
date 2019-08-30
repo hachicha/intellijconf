@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -13,7 +14,6 @@
     <mask>*.xml</mask>
     <mask>*.xsd</mask>
     <mask>*Filter.java</mask>
-    <mask>*.properties</mask>
     <mask>*.css</mask>
     <mask>web.xml</mask>
     <mask>*.sh</mask>
@@ -24,5 +24,6 @@
     <mask>*Dao.java</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
