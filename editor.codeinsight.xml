@@ -3,4 +3,8 @@
     <option name="USE_ACCESSORS_IN_EQUALS_HASHCODE" value="true" />
     <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
   </component>
+  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" SUGGEST_ALIAS_NAMES="false">
+    <option name="suggestAliasNames" value="false" />
+    <option name="useAliasInJoinCompletion" value="false" />
+  </component>
 </application>
