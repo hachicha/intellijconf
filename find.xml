@@ -3,13 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.wsdl" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*GridTest.java</mask>
     <mask>*web*.properties</mask>
-    <mask>*.wsdl</mask>
     <mask>*.xsd</mask>
     <mask>*Filter.java</mask>
     <mask>*.css</mask>
@@ -25,5 +25,6 @@
     <mask>*.sh</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.wsdl</mask>
   </component>
 </application>
