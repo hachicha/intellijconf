@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="arrowsStyle" value="Darcula" />
     <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isPsiIcons" value="false" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
