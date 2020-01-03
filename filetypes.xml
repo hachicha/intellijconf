@@ -1,15 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Modelo347TypeSelectionEnum.java" type="Native" />
       <mapping ext="xcf" type="Native" />
       <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern="cataloguepivot-es-after-222.xml" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid14007" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="delete_duplicated_tobaco_business.sql" type="SQL" />
