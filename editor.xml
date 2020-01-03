@@ -13,6 +13,10 @@
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true">
     <option name="elementHighlighting" value="true" />
   </component>
+  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" SUGGEST_ALIAS_NAMES="false">
+    <option name="suggestAliasNames" value="false" />
+    <option name="useAliasInJoinCompletion" value="false" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
