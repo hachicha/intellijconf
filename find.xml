@@ -12,7 +12,6 @@
     <mask>*Filter.java</mask>
     <mask>*.css</mask>
     <mask>web.xml</mask>
-    <mask>*.xhtml</mask>
     <mask>*Grid.java</mask>
     <mask>*.js</mask>
     <mask>*Dao.java</mask>
@@ -25,5 +24,6 @@
     <mask>*.java</mask>
     <mask>*.xsd</mask>
     <mask>*.sql</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
