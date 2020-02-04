@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="IRIS-48569 Invoices not being sent to Zetes Olympus server" />
+    <option name="defaultScopeName" value="IRIS-48569 Invoices not being sent to Zetes Olympus server" />
+    <option name="SEARCH_SCOPE" value="IRIS-48569 Invoices not being sent to Zetes Olympus server" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
