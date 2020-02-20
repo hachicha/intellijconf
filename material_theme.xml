@@ -5,6 +5,7 @@
     <option name="isHighContrast" value="true" />
     <option name="isMaterialDesign" value="false" />
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="3" />
     <option name="accentColor" value="009688" />
