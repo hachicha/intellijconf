@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Sans ticket : désactivation de l'exécution automatique des batchs T&amp;T en local" />
     <option name="defaultScopeName" value="Sans ticket : désactivation de l'exécution automatique des batchs T&amp;T en local" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Sans ticket : désactivation de l'exécution automatique des batchs T&amp;T en local" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
