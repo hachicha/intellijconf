@@ -3,13 +3,13 @@
     <extensionMap>
       <mapping pattern="Modelo347TypeSelectionEnum.java" type="Native" />
       <mapping ext="xcf" type="Native" />
-      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid19967" type="PLAIN_TEXT" />
       <mapping pattern="cataloguepivot-es-after-222.xml" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid14007" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="delete_duplicated_tobaco_business.sql" type="SQL" />
       <mapping pattern="delete_caisse_gouroo" type="SQL" />
       <mapping pattern="paiements" type="SQL" />
