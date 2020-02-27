@@ -15,6 +15,7 @@
       <mapping pattern="paiements" type="SQL" />
       <mapping pattern="remove_message_iris" type="SQL" />
       <mapping pattern="dont_send_rectificative_invoice" type="SQL" />
+      <mapping ext="xm" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
