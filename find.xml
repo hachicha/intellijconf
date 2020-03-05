@@ -27,5 +27,6 @@
     <mask>*Exception.java</mask>
     <mask>*Enum.java</mask>
     <mask>*.java</mask>
+    <mask>*Resources.java</mask>
   </component>
 </application>
