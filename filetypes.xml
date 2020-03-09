@@ -8,6 +8,7 @@
       <mapping pattern=".attach_pid14007" type="PLAIN_TEXT" />
       <mapping pattern=".attach_pid19967" type="PLAIN_TEXT" />
       <mapping ext="lck" type="PLAIN_TEXT" />
+      <mapping ext="serial" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="paiements" type="SQL" />
