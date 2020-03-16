@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -21,12 +22,12 @@
     <mask>pom.xml</mask>
     <mask>*.xsd</mask>
     <mask>*.xhtml</mask>
-    <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*Dao.java</mask>
     <mask>*Exception.java</mask>
     <mask>*Enum.java</mask>
     <mask>*.java</mask>
     <mask>*Resources.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
