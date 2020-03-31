@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -24,9 +25,9 @@
     <mask>*Exception.java</mask>
     <mask>*Enum.java</mask>
     <mask>*Resources.java</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*Dao.java</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
