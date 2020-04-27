@@ -3,30 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*GridTest.java</mask>
-    <mask>*web*.properties</mask>
-    <mask>*Filter.java</mask>
-    <mask>web.xml</mask>
-    <mask>*Grid.java</mask>
-    <mask>*.js</mask>
-    <mask>*.json</mask>
-    <mask>*.sh</mask>
-    <mask>*.wsdl</mask>
-    <mask>*.properties</mask>
-    <mask>pom.xml</mask>
-    <mask>*.xsd</mask>
-    <mask>*Exception.java</mask>
-    <mask>*Enum.java</mask>
-    <mask>*Resources.java</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
-    <mask>*Dao.java</mask>
-    <mask>*.css</mask>
-    <mask>*.sql</mask>
-    <mask>*.xhtml</mask>
   </component>
 </application>
