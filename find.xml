@@ -9,7 +9,7 @@
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
-    <mask>*Dao.java</mask>
     <mask>*Util.java</mask>
+    <mask>*Dao.java</mask>
   </component>
 </application>
