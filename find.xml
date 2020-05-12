@@ -3,7 +3,6 @@
     <option name="customScope" value="ETS" />
     <option name="defaultScopeName" value="ETS" />
     <option name="SEARCH_SCOPE" value="ETS" />
-    <option name="FILE_MASK" value="*Dao.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
