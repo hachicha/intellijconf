@@ -352,10 +352,16 @@
     </filter>
   </component>
   <component name="NodeRendererSettings">
-    <Renderer ID="ToStringRenderer">
-      <option name="ON_DEMAND" value="true" />
-    </Renderer>
     <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.strator.iris.common.enums.EnumTypeMarge" />
+        <Renderer ID="ExpressionChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="com.strator.iris.common.enums.EnumTypeMarge" />
+          <option name="CHILDREN_EXPANDABLE" value="&#13;&#13;JAVA" />
+          <option name="CHILDREN_EXPRESSION" value="toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
       <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="com.strator.iris.datatable.product.dto.ProductDTO" />
         <option name="ENABLED" value="true" />
