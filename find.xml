@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="LYS-9 ETS - Adapt France ETS catalog to be Spain like LYS-33 ETS - Manage urlcgv and urloptin attributes" />
-    <option name="defaultScopeName" value="LYS-9 ETS - Adapt France ETS catalog to be Spain like LYS-33 ETS - Manage urlcgv and urloptin attributes" />
-    <option name="SEARCH_SCOPE" value="LYS-9 ETS - Adapt France ETS catalog to be Spain like LYS-33 ETS - Manage urlcgv and urloptin attributes" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
