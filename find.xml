@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="current" />
+    <option name="defaultScopeName" value="current" />
+    <option name="SEARCH_SCOPE" value="current" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*Util.java</mask>
