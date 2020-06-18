@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Production Files" />
-    <option name="defaultScopeName" value="Project Production Files" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Production Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*Util.java</mask>
@@ -14,7 +13,7 @@
     <mask>*.java</mask>
     <mask>*.xsd</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*Dao.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
