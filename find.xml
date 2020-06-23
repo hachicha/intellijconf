@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="LYS-20 - Keyboard changing - BOS configuration interface - problem with remise majoration shortcuts" />
-    <option name="defaultScopeName" value="LYS-20 - Keyboard changing - BOS configuration interface - problem with remise majoration shortcuts" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="LYS-20 - Keyboard changing - BOS configuration interface - problem with remise majoration shortcuts" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*Util.java</mask>
