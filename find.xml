@@ -14,5 +14,6 @@
     <mask>*Dao.java</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
