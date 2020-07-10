@@ -6,8 +6,13 @@
           <option name="url" value="http://code.strator.eu" />
           <option name="userName" value="zha" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/zoomonit/greenpepper-selenium-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="/data/dev/git" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
