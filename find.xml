@@ -6,7 +6,6 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*Util.java</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*Dao.java</mask>
@@ -15,5 +14,6 @@
     <mask>*.sql</mask>
     <mask>*.xhtml</mask>
     <mask>*.xsd</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
