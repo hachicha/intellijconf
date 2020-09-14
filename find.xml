@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../middleoffice/middleoffice-web/src/main/java/com/strator/iris/server/middleoffice/adapters/impl/CataloguePivotConverterMoneygram.java [middleoffice-web]'" />
+    <option name="defaultScopeName" value="File '.../middleoffice/middleoffice-web/src/main/java/com/strator/iris/server/middleoffice/adapters/impl/CataloguePivotConverterMoneygram.java [middleoffice-web]'" />
+    <option name="SEARCH_SCOPE" value="File '.../middleoffice/middleoffice-web/src/main/java/com/strator/iris/server/middleoffice/adapters/impl/CataloguePivotConverterMoneygram.java [middleoffice-web]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*Util.java</mask>
