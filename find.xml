@@ -16,5 +16,6 @@
     <mask>*.sh</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>logback*.xml</mask>
   </component>
 </application>
