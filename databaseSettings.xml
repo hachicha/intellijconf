@@ -2,6 +2,7 @@
   <component name="DatabaseSettings" version="4">
     <option name="execute-inside-option" value="3" />
     <option name="prefetch-size" value="500" />
+    <option name="warn-unsafe-query" value="false" />
     <exec-options>
       <exec-option exec-inside="3" />
       <exec-option />
@@ -22,6 +23,7 @@
         <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-literals="false" scope="*,-SQL" predefined="$a.b.c$?" />
         <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-literals="false" scope="*,-SQL" predefined="#a.b.c#?" />
         <parameter-pattern value="%\((\w+)\)s" in-literals="false" scope="Python" predefined="%(name)s" />
+        <parameter-pattern value="(?&lt;=\W|\A):(\d+|[a-zA-Z_](?:\w|\.)*)(?=\W|\z)" scope="JAVA,kotlin,Groovy" predefined=":a.b.c" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
