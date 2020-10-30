@@ -1,4 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+  </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
   <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" SUGGEST_ALIAS_NAMES="false">
     <option name="suggestAliasNames" value="false" />
