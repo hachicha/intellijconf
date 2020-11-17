@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../common/data-access/src/main/java/com/strator/iris/common/dao/impl/TransactionEnAttenteDao.java [data-access]'" />
-    <option name="defaultScopeName" value="File '.../common/data-access/src/main/java/com/strator/iris/common/dao/impl/TransactionEnAttenteDao.java [data-access]'" />
-    <option name="SEARCH_SCOPE" value="File '.../common/data-access/src/main/java/com/strator/iris/common/dao/impl/TransactionEnAttenteDao.java [data-access]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xsd</mask>
     <mask>*.java</mask>
   </component>
