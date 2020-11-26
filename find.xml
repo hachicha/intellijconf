@@ -3,9 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.xsd</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
