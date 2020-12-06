@@ -1,12 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project production files" />
+    <option name="defaultScopeName" value="Project production files" />
+    <option name="SEARCH_SCOPE" value="Project production files" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.xsd</mask>
     <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
