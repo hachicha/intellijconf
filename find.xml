@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="LYS-79 Change the behaviour of &quot;Vente&quot; button in Gestion, to close the browser when opened in Lysgen terminal" />
+    <option name="defaultScopeName" value="LYS-79 Change the behaviour of &quot;Vente&quot; button in Gestion, to close the browser when opened in Lysgen terminal" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="LYS-79 Change the behaviour of &quot;Vente&quot; button in Gestion, to close the browser when opened in Lysgen terminal" />
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.xsd</mask>
