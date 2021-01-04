@@ -1,0 +1,165 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="prod2-clone" group="5_prod-clone" uuid="d324b591-e2ff-4049-849f-488f3a928767">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3188.logista.local:5402/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+    <data-source source="LOCAL" name="prod1" read-only="true" group="6_prod" uuid="fd227319-dcc8-4637-99da-375658cb205f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3191.logista.local:5432/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+    <data-source source="LOCAL" name="prod3-clone" group="5_prod-clone" uuid="e8650e58-04db-49b3-9990-b2fbefa05aa7">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3188.logista.local:5403/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+    <data-source source="LOCAL" name="HSQLDB" group="1_local" uuid="cc706e2b-f9b8-4802-a386-8242432a3822">
+      <driver-ref>hsqldb.remote</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.hsqldb.jdbcDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:hsql://localhost:9001/iris</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="prod4" read-only="true" group="6_prod" uuid="4effa638-2df0-4580-8d75-26b394b17b4a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3245.logista.local:5432/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+    <data-source source="LOCAL" name="qua1_fr" read-only="true" group="4_qua" uuid="1e2c1e6f-40e2-4a70-bd4c-2d51c9aff587">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://qua-db1.strator.local:5432/iris</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="localhost" group="1_local" uuid="8bcac794-8020-4f1c-bd42-16bdbc0bee1c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="dev1" group="2_dev" uuid="1eae302f-970f-42c3-87c7-e0fd88859024">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/iris</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="qua1_es" read-only="true" group="4_qua" uuid="10f1242a-f199-40ab-994d-98d37932aa95">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3190.logista.local:5432/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+    <data-source source="LOCAL" name="dev7" group="2_dev" uuid="30ae58c5-72f4-44a0-aeaa-14689b692cb9">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="archive2" group="5_prod-clone" uuid="d8edaa2a-b533-41f7-938c-5de1793282d4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/iris1</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="dev9" group="2_dev" uuid="8e89d4a5-e7a5-40f6-ae4c-693da21d998a">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="prod3" read-only="true" group="6_prod" uuid="61e96d8c-4028-423f-8842-b0367f6c1814">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3193.logista.local:5432/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+    <data-source source="LOCAL" name="qua2_fr" read-only="true" group="4_qua" uuid="1165094d-219e-4c88-9e74-41eb1fd8c1d8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://qua-db2.strator.local:5432/iris</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="dev6" group="2_dev" uuid="c5a06b08-50d0-4400-b706-05da5434cc5f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="uat1" read-only="true" group="3_uat" uuid="3404e11a-8693-40af-9224-ab6fc83095db">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv1634.logista.local:5432/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+    <data-source source="LOCAL" name="prod2" read-only="true" group="6_prod" uuid="9c5e01ca-8f55-4880-b3d4-a4930dd781dd">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3192.logista.local:5432/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+    <data-source source="LOCAL" name="dev4" group="2_dev" uuid="ede06fd5-b062-4a6b-ba21-81319bde44dc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="dev5" group="2_dev" uuid="038966bd-e2a6-412f-83f0-73807a505b23">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="rec1" read-only="true" group="3_rec" uuid="a288d543-6406-438f-a5fb-388ce7f15fcc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rec-db1.strator.local:5432/iris</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="prod1-clone" group="5_prod-clone" uuid="32a91a55-220f-4d4a-9fee-c2065c9cbed8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3188.logista.local:5401/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+    <data-source source="LOCAL" name="dev2" group="2_dev" uuid="6f851624-c5a5-4193-8113-4c729b56b772">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/iris</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="rec2" read-only="true" group="3_rec" uuid="82673b5d-ee06-44e3-84dc-47b7c29c3aec">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://rec-db2.strator.local:5432/iris</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="qua2_es" read-only="true" group="4_qua" uuid="8e838f26-2248-4b93-b693-91a4b74483fc">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3189.logista.local:5432/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+    <data-source source="LOCAL" name="prod4-clone" group="5_prod-clone" uuid="c4c49ddc-220f-49a3-9791-378870028b47">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3188.logista.local:5404/postgres</jdbc-url>
+      <auto-close enable="true" timeout="1800" />
+    </data-source>
+  </component>
+</application>
