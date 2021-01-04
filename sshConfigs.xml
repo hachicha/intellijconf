@@ -1,0 +1,33 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="dev-db1" id="0e4139bb-89ff-48df-b491-6cc4faa110e8" port="22" customName="dev-db1" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="dev-db1" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="dev-db2" id="3ada3b47-0136-408e-8a42-fb720e6db17a" port="22" customName="dev-db2" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="dev-db2" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="dev-db3" id="52f79ccc-ef40-4ccd-9dde-82957b3aa29e" port="22" customName="dev-db3" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="dev-db3" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="dev-db4" id="7c8df88d-08c5-4271-88fc-af79d3026925" port="22" customName="dev-db4" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="dev-db4" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="dev-db5" id="406a6e3e-a1d3-4ccc-b478-29ac5c77b844" port="22" customName="dev-db5" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="dev-db5" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="dev-db6" id="6627ed72-1d9b-4f46-bf89-97959c51f1ba" port="22" customName="dev-db6" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="dev-db6" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="dev-db7" id="ec2767a3-d62e-4b6a-bfa9-0e17e80fdd98" port="22" customName="dev-db7" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="dev-db7" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="dev-db8" id="2917286c-bf63-41b5-9cc4-9aca296c7267" port="22" customName="dev-db8" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="dev-db8" />
+      </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="dev-db9" id="2b11bf45-09c2-44ef-b83a-2967094b5c52" port="22" customName="dev-db9" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="dev-db9" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

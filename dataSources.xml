@@ -161,5 +161,17 @@
       <jdbc-url>jdbc:postgresql://sv3188.logista.local:5404/postgres</jdbc-url>
       <auto-close enable="true" timeout="1800" />
     </data-source>
+    <data-source source="LOCAL" name="dev3" group="2_dev" uuid="010a191c-9a5d-4181-8284-dd240e0d5370">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/iris</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="dev8" group="2_dev" uuid="87f4a680-e079-4c65-9a4f-7d0e22e7b4f4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
