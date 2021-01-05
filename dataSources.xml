@@ -50,7 +50,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/iris</jdbc-url>
+      <jdbc-url>jdbc:postgresql://dev-db1.strator.local:5432/iris</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="qua1_es" read-only="true" group="4_qua" uuid="10f1242a-f199-40ab-994d-98d37932aa95">
       <driver-ref>postgresql</driver-ref>
@@ -63,7 +63,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://dev-db7.strator.local:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="archive2" group="5_prod-clone" uuid="d8edaa2a-b533-41f7-938c-5de1793282d4">
       <driver-ref>postgresql</driver-ref>
@@ -75,7 +75,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://dev-db9.strator.local:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="prod3" read-only="true" group="6_prod" uuid="61e96d8c-4028-423f-8842-b0367f6c1814">
       <driver-ref>postgresql</driver-ref>
@@ -94,7 +94,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://dev-db6.strator.local:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="uat1" read-only="true" group="3_uat" uuid="3404e11a-8693-40af-9224-ab6fc83095db">
       <driver-ref>postgresql</driver-ref>
@@ -114,13 +114,13 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://dev-db4.strator.local:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="dev5" group="2_dev" uuid="038966bd-e2a6-412f-83f0-73807a505b23">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://dev-db5.strator.local:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="rec1" read-only="true" group="3_rec" uuid="a288d543-6406-438f-a5fb-388ce7f15fcc">
       <driver-ref>postgresql</driver-ref>
@@ -139,7 +139,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/iris</jdbc-url>
+      <jdbc-url>jdbc:postgresql://dev-db2.strator.local:5432/iris</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="rec2" read-only="true" group="3_rec" uuid="82673b5d-ee06-44e3-84dc-47b7c29c3aec">
       <driver-ref>postgresql</driver-ref>
@@ -165,13 +165,13 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/iris</jdbc-url>
+      <jdbc-url>jdbc:postgresql://dev-db3.strator.local:5432/iris</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="dev8" group="2_dev" uuid="87f4a680-e079-4c65-9a4f-7d0e22e7b4f4">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://dev-db8.strator.local:5432/postgres</jdbc-url>
     </data-source>
   </component>
 </application>
