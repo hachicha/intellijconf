@@ -1,5 +1,5 @@
 <application>
-  <component name="DatabaseSettings" version="4">
+  <component name="DatabaseSettings" version="5">
     <option name="execute-inside-option" value="3" />
     <option name="prefetch-size" value="500" />
     <option name="warn-unsafe-query" value="false" />
@@ -45,6 +45,16 @@
           </record-format>
         </header>
       </csv-format>
+      <csv-format name="Pipe-separated" id="Pipe-separated_id">
+        <data>
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="|" recordSeparator="&#10;">
+            <quotation>
+              <quotes left="&quot;" right="&quot;" leftEscaped="&quot;&quot;" rightEscaped="&quot;&quot;" />
+              <quotes left="'" right="'" leftEscaped="''" rightEscaped="''" />
+            </quotation>
+          </record-format>
+        </data>
+      </csv-format>
       <csv-format name="Comma Separated Values (CSV)" id="Comma-separated (CSV)_id">
         <data>
           <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="," recordSeparator="&#10;">
@@ -81,9 +91,9 @@
           </record-format>
         </header>
       </csv-format>
-      <csv-format name="test" id="0f5dfa76-2065-4ef7-86ec-09dbd528243f">
+      <csv-format name="csv1" id="9713a49a-6b95-41c9-a56b-02aa05873226">
         <data>
-          <record-format prefix="" suffix="" nullText="" quotationPolicy="as needed" valueSeparator="&#9;" recordSeparator="&#10;" />
+          <record-format prefix="" suffix="" nullText="" quotationPolicy="always" valueSeparator="," recordSeparator="&#10;" />
         </data>
       </csv-format>
     </csv-formats>
