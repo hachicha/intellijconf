@@ -75,7 +75,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://dev-db9.strator.local:5432/postgres</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="prod3" read-only="true" group="6_prod" uuid="61e96d8c-4028-423f-8842-b0367f6c1814">
       <driver-ref>postgresql</driver-ref>
