@@ -69,7 +69,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/iris1</jdbc-url>
+      <jdbc-url>jdbc:postgresql://archive2.strator.local:5432/iris1</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="dev9" group="2_dev" uuid="8e89d4a5-e7a5-40f6-ae4c-693da21d998a">
       <driver-ref>postgresql</driver-ref>

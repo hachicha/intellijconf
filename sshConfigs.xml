@@ -28,6 +28,9 @@
       <sshConfig authType="OPEN_SSH" host="dev-db9" id="2b11bf45-09c2-44ef-b83a-2967094b5c52" port="22" customName="dev-db9" nameFormat="CUSTOM" username="dev">
         <option name="customName" value="dev-db9" />
       </sshConfig>
+      <sshConfig authType="OPEN_SSH" host="archive2" id="db6f03cf-26ff-42fa-a526-3482c0e3f330" port="22" customName="archive2" nameFormat="CUSTOM" username="dev">
+        <option name="customName" value="archive2" />
+      </sshConfig>
     </configs>
   </component>
 </application>
