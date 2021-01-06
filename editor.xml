@@ -1,15 +1,5 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-  </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-  </component>
-  <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" />
-  <component name="SqlCodeCompletionSettings" USE_ALIAS_JOIN_COMPLETION="false" SUGGEST_ALIAS_NAMES="false">
-    <option name="suggestAliasNames" value="false" />
-    <option name="useAliasInJoinCompletion" value="false" />
+    <option name="FONT_SIZE" value="13" />
   </component>
 </application>
