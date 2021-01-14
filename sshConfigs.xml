@@ -31,6 +31,9 @@
       <sshConfig authType="OPEN_SSH" host="archive2" id="db6f03cf-26ff-42fa-a526-3482c0e3f330" port="22" customName="archive2" nameFormat="CUSTOM" username="dev">
         <option name="customName" value="archive2" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.8.10" id="7a67fb1a-3330-461c-866d-00458fc2f52d" port="22" customName="salon" nameFormat="CUSTOM" username="eib">
+        <option name="customName" value="salon" />
+      </sshConfig>
     </configs>
   </component>
 </application>

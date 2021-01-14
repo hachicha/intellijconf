@@ -174,5 +174,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://dev-db8.strator.local:5432/postgres</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="salon" read-only="true" group="2_dev" uuid="00278408-ba23-4f68-8882-7ba03199a1e7">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/iris</jdbc-url>
+    </data-source>
   </component>
 </application>
