@@ -11,5 +11,6 @@
     <mask>*.java</mask>
     <mask>web.xml</mask>
     <mask>*.xhtml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
