@@ -3,17 +3,18 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>web.xml</mask>
     <mask>*Test.java</mask>
-    <mask>*.xml</mask>
     <mask>*.xhtml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.xsd</mask>
     <mask>*.css</mask>
     <mask>*.jspx</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
