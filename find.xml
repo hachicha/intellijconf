@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Menu Autres services" />
     <option name="defaultScopeName" value="Menu Autres services" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Menu Autres services" />
     <mask>web.xml</mask>
     <mask>*Test.java</mask>
