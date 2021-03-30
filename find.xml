@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Menu Autres services" />
-    <option name="defaultScopeName" value="Menu Autres services" />
-    <option name="SEARCH_SCOPE" value="Menu Autres services" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="customScope" value="Project production files" />
+    <option name="defaultScopeName" value="Project production files" />
+    <option name="SEARCH_SCOPE" value="Project production files" />
     <mask>web.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.xhtml</mask>
