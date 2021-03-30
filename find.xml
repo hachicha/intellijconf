@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Project production files" />
     <option name="defaultScopeName" value="Project production files" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project production files" />
+    <option name="FILE_MASK" value="*Dao.java" />
     <mask>web.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.xhtml</mask>
@@ -15,5 +18,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*Dao.java</mask>
   </component>
 </application>
