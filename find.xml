@@ -10,7 +10,6 @@
     <mask>*.xhtml</mask>
     <mask>pom.xml</mask>
     <mask>*.css</mask>
-    <mask>*.xml</mask>
     <mask>*.xsd</mask>
     <mask>*.jspx</mask>
     <mask>*.js</mask>
@@ -18,5 +17,6 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*Dao.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
