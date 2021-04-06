@@ -4,4 +4,7 @@
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
   </PostgresCodeStyleSettings>
+  <SqlCodeStyleSettings version="5">
+    <option name="SELECT_EL_WRAP" value="0" />
+  </SqlCodeStyleSettings>
 </code_scheme>
