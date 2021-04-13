@@ -3,11 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <mask>web.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.xhtml</mask>
     <mask>pom.xml</mask>
-    <mask>*.css</mask>
     <mask>*.jspx</mask>
     <mask>*.properties</mask>
     <mask>*Dao.java</mask>
@@ -16,5 +16,6 @@
     <mask>*.xsd</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
+    <mask>*.css</mask>
   </component>
 </application>
