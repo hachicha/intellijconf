@@ -3,7 +3,7 @@
     <option name="customScope" value="clavier" />
     <option name="defaultScopeName" value="clavier" />
     <option name="SEARCH_SCOPE" value="clavier" />
-    <option name="FILE_MASK" value="*DTO.java" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>web.xml</mask>
     <mask>*Test.java</mask>
     <mask>*.xhtml</mask>
@@ -13,10 +13,10 @@
     <mask>*Dao.java</mask>
     <mask>*.java</mask>
     <mask>*.xsd</mask>
-    <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*.css</mask>
     <mask>*.xml</mask>
     <mask>*DTO.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
