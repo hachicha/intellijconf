@@ -12,6 +12,7 @@
   <component name="UsageViewSettings">
     <option name="EXPORT_FILE_NAME" value="$USER_HOME$/tmp/report.txt" />
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="GROUP_BY_DIRECTORY_STRUCTURE" value="true" />
     <option name="GROUP_BY_FILE_STRUCTURE" value="false" />
     <option name="GROUP_BY_PACKAGE" value="false" />
     <option name="GROUP_BY_SCOPE" value="true" />
