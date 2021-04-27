@@ -9,6 +9,9 @@
     <option name="GROUP_BY_SCOPE" value="true" />
     <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.5322034" />
   </component>
+  <component name="UsageInGeneratedCodeFilteringSetting">
+    <option name="enabled" value="false" />
+  </component>
   <component name="UsageViewSettings">
     <option name="EXPORT_FILE_NAME" value="$USER_HOME$/tmp/report.txt" />
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
