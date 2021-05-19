@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="local" />
     <mask>web.xml</mask>
     <mask>*Test.java</mask>
-    <mask>*.xhtml</mask>
     <mask>pom.xml</mask>
     <mask>*.jspx</mask>
     <mask>*.properties</mask>
@@ -17,5 +16,6 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
