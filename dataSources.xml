@@ -186,5 +186,11 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://sv3435:5432/iris</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="dev2-sofia" group="2_dev/sofia" uuid="c6feabfa-6ac6-4597-ad2c-60bb4901e57d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://sv3436:5432/iris</jdbc-url>
+    </data-source>
   </component>
 </application>
