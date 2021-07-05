@@ -3,6 +3,7 @@
     <option name="customScope" value="local" />
     <option name="defaultScopeName" value="local" />
     <option name="SEARCH_SCOPE" value="local" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>web.xml</mask>
     <mask>*Test.java</mask>
     <mask>pom.xml</mask>
@@ -13,9 +14,9 @@
     <mask>*.css</mask>
     <mask>*DTO.java</mask>
     <mask>*.xhtml</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
