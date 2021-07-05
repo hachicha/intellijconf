@@ -3,7 +3,6 @@
     <option name="customScope" value="local" />
     <option name="defaultScopeName" value="local" />
     <option name="SEARCH_SCOPE" value="local" />
-    <option name="FILE_MASK" value="*.jspx" />
     <mask>web.xml</mask>
     <mask>*Test.java</mask>
     <mask>pom.xml</mask>
